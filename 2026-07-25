@@ -1,0 +1,11 @@
+# Github
+
+Git console version => Github / Gitlab / Bitbucket
+
+## วิธี Clear Account Github
+1. Clear บน IDE
+2. Clear บน Window โดยการไปลบที่ Folder User และลบ File .gitconfig
+3. ไปยัง Path Control Panel/User Accounts/Credential Manager ในส่วนของ Windows Credentials Remove Github
+
+## ผูก Github กับ IDE
+1. บน IDE Sign In ไปยัง Github
