@@ -17,5 +17,5 @@ Git console version => Github / Gitlab / Bitbucket
 - CDN => Google Font
 
 ## Icon
-CSS(Cascading Style Sheets) / SVG
+CSS(Cascading Style Sheets) / SVG / SASS(Syntactically Awesome Style Sheets => หลักการให้มอง Style Sheet เป็นตัวแปร) / SCSS(Sassy CSS)
 - CDN => fontawesome, cdnjs(เป็น Website), lineawesome, boxicon, font awesome animation, material icon, material design icon, iconify, all svg icon
