@@ -12,3 +12,10 @@ Git console version => Github / Gitlab / Bitbucket
 
 ## CMD / GUI
 1. เตรียม Folder สำหรับ Up ขึ้น Github
+
+## Font
+- CDN => Google Font
+
+## Icon
+CSS(Cascading Style Sheets) / SVG
+- CDN => fontawesome, cdnjs(เป็น Website), lineawesome, boxicon, font awesome animation, material icon, material design icon, iconify, all svg icon
